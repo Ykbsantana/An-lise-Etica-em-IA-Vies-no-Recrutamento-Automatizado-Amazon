@@ -1,0 +1,2 @@
+# An-lise-Etica-em-IA-Vies-no-Recrutamento-Automatizado-Amazon
+Este repositório contém a análise acadêmica desenvolvida no curso de Análise e Desenvolvimento de Sistemas (ADS), sobre dilemas éticos na aplicação da Inteligência Artificial.  O caso escolhido foi o sistema de recrutamento automatizado da Amazon, que apresentava viés de gênero, desfavorecendo candidaturas de mulheres em áreas de tecnologia.
